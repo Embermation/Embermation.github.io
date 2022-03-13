@@ -1,0 +1,10 @@
+<span id="a">sfa@command-line</span>:<span id="b">~</span><span id="c">$</span> cd SFA-main/<!-- laglaglaglaglaglag -->About_SFA
+<span id="a">sfa@about_sfa</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->SFA_About.txt<br/><br/>
+SFA Initialization: "<span id="k">INITIALIZATION COMPLETE</span>". <!-- sjkfhskjf -->
+
+The SFA is an agency run by Jayden and Avery.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>This agency is for the members of the SFA.</p>
+<p>INSTALLING INFO.js</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p> You can go to your user page by scanning the QR code on your badge. If your badge isn't working, plese contact Jayden.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+
+
+Contact SFA support here<!-- longlonglongcomment --><a href="jaymberlyyt@gmail.com">Email</a>.
