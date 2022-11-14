@@ -1,9 +1,15 @@
-<span id="a">jayden@cruz</span>:<span id="b">~</span><span id="c">$</span> cd WINDOWS-SERVER/<!-- laglaglaglaglaglag -->About_me.txt<span id="a">jayden@cruz</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->jayden.txt<br/><br/>DEBUG "<span id="k">DISABLED</span>". <!-- sjkfhskjf -->
+<span id="a">jayden@cruz</span>:<span id="b">~</span><span id="c">$</span> cd WINDOWS-SERVER/<!-- laglaglaglaglaglag -->About_me.txt
+<span id="a">jayden@cruz</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->jayden.txt<br/><br/>DEBUG "<span id="k">DISABLED</span>". <!-- sjkfhskjf -->
 
-Hey There! This is My secondary website!<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Although this is quite empty, this is NOT my main website, because I'm to bored to code.</p><p>I'm Jayden! Owner of the not-so-famous Youtube Channel <a href="youtube.com/JaysCreationsYT"> Jays Creations </a></p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag --><p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay --><p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay--><p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+Hey There! This is My secondary website!<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Although this is quite empty, this is NOT my main website, because I'm to bored to code.</p><p>I'm Jayden! Owner of the not-so-famous Youtube Channel <a href="youtube.com/JaysCreationsYT"> Jays Creations </a></p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag --><p> I also own my own merch shop called Jays Cove, And the shop Jedzy's Store has merged with mine! <a href="https://jays-cove.myspreadshop.com/">Jays Cove</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay --><p>I also have 2 books on amazon! C'est La Backrooms, and LIMINALITY which are I've made with my friend, Liam Grisham, about the backrooms!<br><br><br>Here are my main links to my social medias!<a href="linktr.ee/JaysCreations_YT"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay--><p> Here's the links to my books, and my Amazon page!<br> <a href="amazon.com/gp/product/B0BGN5ZLDQ/">C'est La Backrooms</a> <br> <a href="amazon.com/gp/product/B0BGB2WDK3/">L I M I N A L I T Y</a> and <br> <a href="https://www.amazon.com/kindle-dbs/entity/author/B0BGMJLD84?_encoding=UTF8&node=2656022011&offset=0&pageSize=12&searchAlias=stripbooks&sort=author-sidecar-rank&page=1&langFilter=default#formatSelectorHeader">My Amazon Page</a>.</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+<!-- slightdelayhere-->Feel free to send me an email at<!-- longlonglongcomment --><a href="scp.9995@gmail.com">Email</a>.
 
 <p>Cheers!</p>
 
-<>
+
+<span id="a">jayden@cruz</span>:<span id="b">~</span><span id="c">$</span> I don't like the new YouTube layout ;_(
+
+Unknown command "I don't like the new YouTube layout ;_("
+
+
