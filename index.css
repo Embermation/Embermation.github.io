@@ -2,6 +2,4 @@ body {
   background-color: black;
 }
 
-p1 {
-  text-color: white;
-}
+#video-overlay { position: absolute; width: 400px; height: 300px; z-index: 999;  }
