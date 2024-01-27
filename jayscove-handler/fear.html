@@ -11,6 +11,35 @@
     <img src="IMG_0497.png" alt="I CANT TAKE THIS ANYMORE">
 <p>fear</p>
     </div>
+<!-- Add an invisible audio element -->
+<audio id="invisibleAudio" autoplay style="display: none" loop>
+  <source src="fear.mp3" type="audio/mp3">
+  Your browser is shit. Dooesn't support audio.
+</audio>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+  // Get the audio element
+  const audio = document.getElementById("invisibleAudio");
+
+  // Function to start audio playback
+  function startAudio() {
+    // Unmute the audio to make sure it plays
+    audio.muted = false;
+
+    // Start playing the audio
+    audio.play();
+
+    // Remove the event listeners to prevent multiple plays
+    document.removeEventListener("click", startAudio);
+    document.removeEventListener("touchstart", startAudio);
+  }
+
+  // Add event listeners for click and touchstart to start audio playback
+  document.addEventListener("click", startAudio);
+  document.addEventListener("touchstart", startAudio);
+});
+
+    </script>
 </body>
 </html>
 
