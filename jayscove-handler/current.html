@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
-    <title>Your Name</title>
+    <title>Jays Cove</title>
 </head>
 <body>
     <div class="grid-2">
@@ -14,12 +14,47 @@
             <i class="fas fa-code fa-5x white"></i>
             <h2>Whats going on in Jay's chaotic life?</h2>
             <p>(i hate coding...!)</p>
-            <p>"Maybe I didn’t break it, it just seems like<br>
-I broke it. Maybe it just seems like we exist<br>
-at all, and we really aren’t even here. I don’t<br>
-know anything, no one knows anything."
-</p>
+            <p id="quote"></p>
         </div>
+        <script>
+    const quotes = [
+        "Often I am upset..<br>that i cannot fall in love<br>but i guess... this avoids<br>the stress of falling out of it.",
+        "Get a loud of this trainwreck.<br>His hair's a mess and he<br>doesn't know who he is yet.",
+        "Time is.... slowly....<br>tracing his face<br>but strangely<br>he feels at home<br>in this place.",
+        "His colors ought to show again—"
+        "Twttr, Twitter, X."
+        "01001000 01110100 01110100 01110000 01110011 00111010 00101111 00101111 01110111 01110111 01110111 00101110 01111001 01101111 01110101 01110100 01110101 01100010 01100101 00101110 01100011 01101111 01101101 00101111 01110111 01100001 01110100 01100011 01101000 01110110 00111101 00111000 01110111 01001011 01010111 01110111 01010101 01111010 01100111 01000011 01000101 00111000 00110010 00111100 01100001 01100010 01011100 01100011 01101000 01100001 01101110 01101110 01100101 01101100 01011111 01001111 01001101 01001111 01000011 01000001 01010100"
+        "Do you like how I walk? Do you like how I talk? Do you like how my face d̶̢̟̻̈́̎̀i̸̞͍̤͕̎̊ŝ̶̪͝ḭ̶̈́n̵̡̦̲͈͗t̸̢̛̿̈́̎e̷̡̪̎ǵ̸̲̖̳͊͌̅r̷̟̱͂ã̴͍̣̘͊t̶̨͐͆͒̓ȩ̷͕̂s̸̮̮̫̗͛ ̷̯̻̭̇ï̶̤͠ṇ̸̾ẗ̸̨̜̗́̂ö̵̪̮̗́̈͛ ̸͉̏́C̸̨͍̼͒̕H̵͉̟̺̻͌̈́A̶̦͓͕̐͂͌͛L̶̛ͅK̸̬̖̻̖̀͒͠?̷͍͈͔̓͐͛"
+        "All, for nothing at all."
+        "Resident Minor, how do you plead?"
+        "It's not as scary as you think."
+        "&quot;It's you!&quot;"
+        "&quot;Despite everything, it's still you.&quot;"
+        "what you sacrifice can never be reclaimed."
+        "my friends are wrong about me. the person they love isnt me at all."
+        "&quot;you let them believe in a lie.. to protect yourself.&quot;"
+        "Just because you've done something bad doesn't make you a bad person."
+        "It doesn't take a killer to murder."
+        "It only takes a reason to kill."
+        "This quote doesn't feel right here."
+        "You'll forgive yourself, won't you?"
+        "Waiting for soemthing to happen?"
+        "There isn't much to do here, huh?"
+        "&quot;I feel bad for his parents...&quot;"
+        "There's too many colors for all of us to insane."
+        "There i was, comparing who I am and who I saw behind the screen."
+        "Only the cold will keep me company now."
+        // Add more quotes as needed
+    ];
+
+    function setRandomQuote() {
+        const randomIndex = Math.floor(Math.random() * quotes.length);
+        document.body.textContent = quotes[randomIndex];
+    }
+
+    window.onload = setRandomQuote;
+</script>
+
         <div class="section-2">
             
             <h2>LINKS</h2>
