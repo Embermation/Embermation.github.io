@@ -45,24 +45,16 @@
         "Only the cold will keep me company now."
 
             ];            
-// Function to get a random quote
-function getRandomQuote() {
-  const randomIndex = Math.floor(Math.random() * quotes.length);
-  return quotes[randomIndex];
-}
+    // Get a random quote
+    const randomIndex = Math.floor(Math.random() * quotes.length);
+    const randomQuote = quotes[randomIndex];
 
-// Function to set the quote text on page load
-function setRandomQuote() {
-  const quoteElement = document.getElementById("quote-text");
-  if (quoteElement) {
-    const randomQuote = getRandomQuote();
-    quoteElement.textContent = randomQuote;
-  }
-}
+    // Set the quote text
+    document.getElementById("quote-text").textContent = randomQuote;
+  </script>
+</body>
+</html>
 
-// Event listener for page load
-window.addEventListener("load", setRandomQuote);
-        // Add more quotes as needed
 </script>
         </div>
 
