@@ -15,7 +15,6 @@
             <h2>Whats going on in Jay's chaotic life?</h2>
             <p>(i hate coding...!)</p>
             <p id="quotes"></p>
-        </div>
         <script>
     const quotes = [
         "Often I am upset..<br>that i cannot fall in love<br>but i guess... this avoids<br>the stress of falling out of it.",
@@ -44,16 +43,28 @@
         "There's too many colors for all of us to insane."
         "There i was, comparing who I am and who I saw behind the screen."
         "Only the cold will keep me company now."
+
+            ];            
+// Function to get a random quote
+function getRandomQuote() {
+  const randomIndex = Math.floor(Math.random() * quotes.length);
+  return quotes[randomIndex];
+}
+
+// Function to set the quote text on page load
+function setRandomQuote() {
+  const quoteElement = document.getElementById("quote-text");
+  if (quoteElement) {
+    const randomQuote = getRandomQuote();
+    quoteElement.textContent = randomQuote;
+  }
+}
+
+// Event listener for page load
+window.addEventListener("load", setRandomQuote);
         // Add more quotes as needed
-    ];
-
-    function setRandomQuote() {
-        const randomIndex = Math.floor(Math.random() * quotes.length);
-        document.body.textContent = quotes[randomIndex];
-    }
-
-    window.onload = setRandomQuote;
 </script>
+        </div>
 
         <div class="section-2">
             
