@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HELP ME HELP ME HELP</title>
+    <title>Dark Grey Webpage</title>
     <style>
         body {
             background-color: #333;
@@ -20,16 +20,16 @@
 
         h1 {
             font-size: 24px;
-            animation: jitter 1s infinite alternate;
-          font-family: Lucida Console;
+            animation: shake 1s infinite alternate;
+            font-family: Lucida Console;
         }
 
-        @keyframes jitter {
+        @keyframes shake {
             from {
-                transform: translateX(-2px);
+                transform: translate(-2px, -2px);
             }
             to {
-                transform: translateX(2px);
+                transform: translate(2px, 2px);
             }
         }
     </style>
