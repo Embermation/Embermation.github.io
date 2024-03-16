@@ -1,40 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>jaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermationsjaymbermations</title>
-    <style>
-        body {
-            background-color: #333;
-            color: #fff;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-
-        h1 {
-            font-size: 24px;
-            animation: shake 1s infinite alternate;
-            font-family: Lucida Console;
-        }
-
-        @keyframes shake {
-            from {
-                transform: translate(-2px, -2px);
-            }
-            to {
-                transform: translate(2px, 2px);
-            }
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Black Page</title>
+<style>
+    body {
+        background-color: #000;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        font-family: Arial, sans-serif;
+    }
+    a {
+        color: #fff;
+        text-decoration: none;
+    }
+</style>
 </head>
 <body>
-    <h1>now they see my blood on their sneakers</h1>
+    <a href="root.png" id="redirectLink">this one's for you, jedzy</a>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            document.body.addEventListener("click", function() {
+                window.location.href = document.getElementById("redirectLink").href;
+            });
+        });
+    </script>
 </body>
 </html>
